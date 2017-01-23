@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Acadgild Content\Code\Session- 16\ACD_AN_Session_16_Code\ACD_AN_Session_16_Code\ThroCodeBroadcastReceiver2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="aa76a8f59c2d17cd0a616085cb370e52bea25b64">
+        <dex dex="D:\Acadgild Content\Code\Session- 16\ACD_AN_Session_16_Code\ACD_AN_Session_16_Code\ThroCodeBroadcastReceiver2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_892f3dd5f3d6ba3e3d049470d630452d148f58d2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Acadgild Content\Code\Session- 16\ACD_AN_Session_16_Code\ACD_AN_Session_16_Code\ThroCodeBroadcastReceiver2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="88ee53915898ddef4696450ca9b342aacb7835a0">
+        <dex dex="D:\Acadgild Content\Code\Session- 16\ACD_AN_Session_16_Code\ACD_AN_Session_16_Code\ThroCodeBroadcastReceiver2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9899d3cc063df3c4fc77d243ebb57905bcd2971e\classes.dex" />
+    </item>
+
+</items>
